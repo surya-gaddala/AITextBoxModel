@@ -1,0 +1,7 @@
+path: C:/DFT/DFT/Repo/AIML/Empty Text Box(Label)/dataset  
+train: train/images  
+val: val/images  
+test: test/images  
+
+nc: 2  
+names: ["Label", "Textbox"]
